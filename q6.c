@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-     int n,i = 1,sum = 0;
+     int n,i,sum = 0;
     printf("Enter a natural number: ");
     scanf("%d", &n);
     printf("Odd natural numbers: \n");
